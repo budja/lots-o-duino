@@ -1,0 +1,1 @@
+Lots of different Arduino sketches and the libraries they referenced. Some of the libraries in question may be modified from the originals. Mainly maintained by Dave Anderson (da@bu.edu) with contributions by Aleks Zosuls (azosuls@bu.edu)
